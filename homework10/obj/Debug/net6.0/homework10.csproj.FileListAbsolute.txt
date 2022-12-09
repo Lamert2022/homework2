@@ -1,0 +1,15 @@
+C:\geekbrains\homework C#\homework2\homework10\bin\Debug\net6.0\homework10.exe
+C:\geekbrains\homework C#\homework2\homework10\bin\Debug\net6.0\homework10.deps.json
+C:\geekbrains\homework C#\homework2\homework10\bin\Debug\net6.0\homework10.runtimeconfig.json
+C:\geekbrains\homework C#\homework2\homework10\bin\Debug\net6.0\homework10.dll
+C:\geekbrains\homework C#\homework2\homework10\bin\Debug\net6.0\homework10.pdb
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.csproj.AssemblyReference.cache
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.AssemblyInfoInputs.cache
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.AssemblyInfo.cs
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.csproj.CoreCompileInputs.cache
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.dll
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\refint\homework10.dll
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.pdb
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\homework10.genruntimeconfig.cache
+C:\geekbrains\homework C#\homework2\homework10\obj\Debug\net6.0\ref\homework10.dll
